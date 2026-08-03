@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  LittleLemon
-//
-//  Created by Duong Le on 7/23/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
