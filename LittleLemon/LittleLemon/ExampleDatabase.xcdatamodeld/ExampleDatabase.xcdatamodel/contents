@@ -4,6 +4,8 @@
         <attribute name="title" optional="YES" attributeType="String"/>
         <attribute name="image" optional="YES" attributeType="String"/>
         <attribute name="price" optional="YES" attributeType="String"/>
+        <attribute name="dishDescription" optional="YES" attributeType="String"/>
+        <attribute name="category" optional="YES" attributeType="String"/>
     </entity>
     <elements>
         <element name="Dish" positionX="-63" positionY="-18" width="128" height="74"/>

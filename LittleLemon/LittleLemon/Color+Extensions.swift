@@ -20,4 +20,6 @@ extension Color {
     static let secondaryLightPeach = Color(hex: "#FBDABB")
     static let secondaryLightGray = Color(hex: "#EDEFEE")
     static let secondaryDarkGray = Color(hex: "#333333")
+
+    static let textSecondary = Color(hex: "#757575")
 }

@@ -10,4 +10,5 @@ extension Font {
     static let cardTitle = Font.custom("Karla-Bold", size: 18)
     static let paragraphText = Font.custom("Karla-Regular", size: 16)
     static let highlightText = Font.custom("Karla-Medium", size: 16)
+    static let buttonText = Font.custom("Karla-Bold", size: 16)
 }
